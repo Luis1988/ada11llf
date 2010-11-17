@@ -1,0 +1,15 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Hay un problema en el método getSize() de la práctica 04 de mochila, le pregunté al profesor si se podía hacer con un contador y un equals, pero me dijo que la forma más fácil es con un set, pero ¿de qué manera? Lo dijo tan rápido que ni me enteré
+
+
+= Details =
+
+public Integer getSize(){
+ return solucionMochila.size();
+}
+
+// Ese problema no es válido según el enunciado, porque te pide el tamaño, pero sin
+// repetir elementos, ahí es donde quiero modificar el método
