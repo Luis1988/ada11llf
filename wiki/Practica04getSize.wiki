@@ -11,5 +11,4 @@ public Integer getSize(){
  return solucionMochila.size();
 }
 
-// Ese problema no es válido según el enunciado, porque te pide el tamaño, pero sin
-// repetir elementos, ahí es donde quiero modificar el método
+// Ese problema no es válido según el enunciado, porque te pide el tamaño, pero sin repetir elementos, ahí es donde quiero modificar el método
