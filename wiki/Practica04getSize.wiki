@@ -4,6 +4,8 @@
 
 Hay un problema en el método getSize() de la práctica 04 de mochila, le pregunté al profesor si se podía hacer con un contador y un equals, pero me dijo que la forma más fácil es con un set, pero ¿de qué manera? Lo dijo tan rápido que ni me enteré
 
+Mañana lo dejaré en Issues, ya que no me da tiempo ahora mismo
+
 
 = Details =
 
