@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary getSize() sin resolver de la práctica 04
 
 = Introduction =
 
