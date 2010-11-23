@@ -1,0 +1,14 @@
+#summary Añadida la práctica 6
+
+= Introduction =
+
+Acabo de añadir la práctica 06 Luis, por otro lado, he de informar de un nuevo error en la práctica 04 Luis, y es que en el método getSize() está mal escrito y debería primero inicializarse con un size(), y luego restar en la condición
+
+Parece ser que el método en si funciona, por lo que no hay problemas en el proyecto
+
+
+= Details =
+
+Acabo de añadir la práctica 06 Luis, por otro lado, he de informar de un nuevo error en la práctica 04 Luis, y es que en el método getSize() está mal escrito y debería primero inicializarse con un size(), y luego restar en la condición
+
+Parece ser que el método en si funciona, por lo que no hay problemas en el proyecto
